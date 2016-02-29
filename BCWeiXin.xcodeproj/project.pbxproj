@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D3C278B31C82C43A001ABDC3 /* PopMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = D3C278B01C82C43A001ABDC3 /* PopMenu.m */; settings = {ASSET_TAGS = (); }; };
+		D3C278B41C82C43A001ABDC3 /* PopMenuItem.m in Sources */ = {isa = PBXBuildFile; fileRef = D3C278B21C82C43A001ABDC3 /* PopMenuItem.m */; settings = {ASSET_TAGS = (); }; };
+		D3C278B81C82C452001ABDC3 /* WeiXinChatViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D3C278B71C82C452001ABDC3 /* WeiXinChatViewController.m */; settings = {ASSET_TAGS = (); }; };
 		D3DAA9BC1C8133C60018D317 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D3DAA9BB1C8133C60018D317 /* main.m */; };
 		D3DAA9BF1C8133C60018D317 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D3DAA9BE1C8133C60018D317 /* AppDelegate.m */; };
 		D3DAA9C21C8133C60018D317 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D3DAA9C11C8133C60018D317 /* ViewController.m */; };
@@ -32,7 +35,6 @@
 		D3DAAA0D1C8138240018D317 /* SenderVoiceNodeDownloading@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D3DAA9FC1C8138230018D317 /* SenderVoiceNodeDownloading@2x.png */; settings = {ASSET_TAGS = (); }; };
 		D3DAAA0E1C8138240018D317 /* SenderVoiceNodePlaying.png in Resources */ = {isa = PBXBuildFile; fileRef = D3DAA9FD1C8138230018D317 /* SenderVoiceNodePlaying.png */; settings = {ASSET_TAGS = (); }; };
 		D3DAAA0F1C8138240018D317 /* SenderVoiceNodePlaying@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D3DAA9FE1C8138230018D317 /* SenderVoiceNodePlaying@2x.png */; settings = {ASSET_TAGS = (); }; };
-		D3DAAA171C8142660018D317 /* WeiXinChatViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D3DAAA161C8142660018D317 /* WeiXinChatViewController.m */; settings = {ASSET_TAGS = (); }; };
 		D3DAAA231C814B0D0018D317 /* airplane-in-clouds.png in Resources */ = {isa = PBXBuildFile; fileRef = D3DAAA191C814B0D0018D317 /* airplane-in-clouds.png */; settings = {ASSET_TAGS = (); }; };
 		D3DAAA241C814B0D0018D317 /* angry-birds.png in Resources */ = {isa = PBXBuildFile; fileRef = D3DAAA1A1C814B0D0018D317 /* angry-birds.png */; settings = {ASSET_TAGS = (); }; };
 		D3DAAA251C814B0D0018D317 /* armchair.png in Resources */ = {isa = PBXBuildFile; fileRef = D3DAAA1B1C814B0D0018D317 /* armchair.png */; settings = {ASSET_TAGS = (); }; };
@@ -43,8 +45,6 @@
 		D3DAAA2A1C814B0D0018D317 /* earth-globe.png in Resources */ = {isa = PBXBuildFile; fileRef = D3DAAA201C814B0D0018D317 /* earth-globe.png */; settings = {ASSET_TAGS = (); }; };
 		D3DAAA2B1C814B0D0018D317 /* fingerprint.png in Resources */ = {isa = PBXBuildFile; fileRef = D3DAAA211C814B0D0018D317 /* fingerprint.png */; settings = {ASSET_TAGS = (); }; };
 		D3DAAA2C1C814B0D0018D317 /* footbal-ball.png in Resources */ = {isa = PBXBuildFile; fileRef = D3DAAA221C814B0D0018D317 /* footbal-ball.png */; settings = {ASSET_TAGS = (); }; };
-		D3DAAA311C8194F50018D317 /* PopMenuItem.m in Sources */ = {isa = PBXBuildFile; fileRef = D3DAAA301C8194F50018D317 /* PopMenuItem.m */; settings = {ASSET_TAGS = (); }; };
-		D3DAAA341C81A0CA0018D317 /* PopMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = D3DAAA331C81A0CA0018D317 /* PopMenu.m */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,6 +65,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D3C278AF1C82C43A001ABDC3 /* PopMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PopMenu.h; sourceTree = "<group>"; };
+		D3C278B01C82C43A001ABDC3 /* PopMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PopMenu.m; sourceTree = "<group>"; };
+		D3C278B11C82C43A001ABDC3 /* PopMenuItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PopMenuItem.h; sourceTree = "<group>"; };
+		D3C278B21C82C43A001ABDC3 /* PopMenuItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PopMenuItem.m; sourceTree = "<group>"; };
+		D3C278B61C82C452001ABDC3 /* WeiXinChatViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WeiXinChatViewController.h; sourceTree = "<group>"; };
+		D3C278B71C82C452001ABDC3 /* WeiXinChatViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WeiXinChatViewController.m; sourceTree = "<group>"; };
 		D3DAA9B71C8133C60018D317 /* BCWeiXin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BCWeiXin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3DAA9BB1C8133C60018D317 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		D3DAA9BD1C8133C60018D317 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -98,8 +104,6 @@
 		D3DAA9FC1C8138230018D317 /* SenderVoiceNodeDownloading@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SenderVoiceNodeDownloading@2x.png"; sourceTree = "<group>"; };
 		D3DAA9FD1C8138230018D317 /* SenderVoiceNodePlaying.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SenderVoiceNodePlaying.png; sourceTree = "<group>"; };
 		D3DAA9FE1C8138230018D317 /* SenderVoiceNodePlaying@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SenderVoiceNodePlaying@2x.png"; sourceTree = "<group>"; };
-		D3DAAA151C8142660018D317 /* WeiXinChatViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WeiXinChatViewController.h; sourceTree = "<group>"; };
-		D3DAAA161C8142660018D317 /* WeiXinChatViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WeiXinChatViewController.m; sourceTree = "<group>"; };
 		D3DAAA191C814B0D0018D317 /* airplane-in-clouds.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "airplane-in-clouds.png"; sourceTree = "<group>"; };
 		D3DAAA1A1C814B0D0018D317 /* angry-birds.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "angry-birds.png"; sourceTree = "<group>"; };
 		D3DAAA1B1C814B0D0018D317 /* armchair.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = armchair.png; sourceTree = "<group>"; };
@@ -110,10 +114,6 @@
 		D3DAAA201C814B0D0018D317 /* earth-globe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "earth-globe.png"; sourceTree = "<group>"; };
 		D3DAAA211C814B0D0018D317 /* fingerprint.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fingerprint.png; sourceTree = "<group>"; };
 		D3DAAA221C814B0D0018D317 /* footbal-ball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "footbal-ball.png"; sourceTree = "<group>"; };
-		D3DAAA2F1C8194F50018D317 /* PopMenuItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PopMenuItem.h; sourceTree = "<group>"; };
-		D3DAAA301C8194F50018D317 /* PopMenuItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PopMenuItem.m; sourceTree = "<group>"; };
-		D3DAAA321C81A0CA0018D317 /* PopMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PopMenu.h; sourceTree = "<group>"; };
-		D3DAAA331C81A0CA0018D317 /* PopMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PopMenu.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -141,6 +141,26 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D3C278AE1C82C43A001ABDC3 /* popMenu */ = {
+			isa = PBXGroup;
+			children = (
+				D3C278AF1C82C43A001ABDC3 /* PopMenu.h */,
+				D3C278B01C82C43A001ABDC3 /* PopMenu.m */,
+				D3C278B11C82C43A001ABDC3 /* PopMenuItem.h */,
+				D3C278B21C82C43A001ABDC3 /* PopMenuItem.m */,
+			);
+			path = popMenu;
+			sourceTree = "<group>";
+		};
+		D3C278B51C82C452001ABDC3 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				D3C278B61C82C452001ABDC3 /* WeiXinChatViewController.h */,
+				D3C278B71C82C452001ABDC3 /* WeiXinChatViewController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
 		D3DAA9AE1C8133C60018D317 = {
 			isa = PBXGroup;
 			children = (
@@ -164,8 +184,8 @@
 		D3DAA9B91C8133C60018D317 /* BCWeiXin */ = {
 			isa = PBXGroup;
 			children = (
-				D3DAAA2E1C8194A40018D317 /* popMenu */,
-				D3DAAA141C8141DC0018D317 /* Controller */,
+				D3C278B51C82C452001ABDC3 /* Controller */,
+				D3C278AE1C82C43A001ABDC3 /* popMenu */,
 				D3DAA9ED1C8138230018D317 /* image */,
 				D3DAA9BD1C8133C60018D317 /* AppDelegate.h */,
 				D3DAA9BE1C8133C60018D317 /* AppDelegate.m */,
@@ -231,16 +251,6 @@
 			path = image;
 			sourceTree = "<group>";
 		};
-		D3DAAA141C8141DC0018D317 /* Controller */ = {
-			isa = PBXGroup;
-			children = (
-				D3DAAA151C8142660018D317 /* WeiXinChatViewController.h */,
-				D3DAAA161C8142660018D317 /* WeiXinChatViewController.m */,
-			);
-			name = Controller;
-			path = ../Controller;
-			sourceTree = "<group>";
-		};
 		D3DAAA181C814AEB0018D317 /* 头像 */ = {
 			isa = PBXGroup;
 			children = (
@@ -256,18 +266,6 @@
 				D3DAAA221C814B0D0018D317 /* footbal-ball.png */,
 			);
 			name = "头像";
-			sourceTree = "<group>";
-		};
-		D3DAAA2E1C8194A40018D317 /* popMenu */ = {
-			isa = PBXGroup;
-			children = (
-				D3DAAA2F1C8194F50018D317 /* PopMenuItem.h */,
-				D3DAAA301C8194F50018D317 /* PopMenuItem.m */,
-				D3DAAA321C81A0CA0018D317 /* PopMenu.h */,
-				D3DAAA331C81A0CA0018D317 /* PopMenu.m */,
-			);
-			name = popMenu;
-			path = ../popMenu;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -427,10 +425,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D3DAAA341C81A0CA0018D317 /* PopMenu.m in Sources */,
-				D3DAAA171C8142660018D317 /* WeiXinChatViewController.m in Sources */,
 				D3DAA9C21C8133C60018D317 /* ViewController.m in Sources */,
-				D3DAAA311C8194F50018D317 /* PopMenuItem.m in Sources */,
+				D3C278B41C82C43A001ABDC3 /* PopMenuItem.m in Sources */,
+				D3C278B81C82C452001ABDC3 /* WeiXinChatViewController.m in Sources */,
+				D3C278B31C82C43A001ABDC3 /* PopMenu.m in Sources */,
 				D3DAA9BF1C8133C60018D317 /* AppDelegate.m in Sources */,
 				D3DAA9BC1C8133C60018D317 /* main.m in Sources */,
 			);
@@ -656,6 +654,7 @@
 				D3DAA9E61C8133C70018D317 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D3DAA9E71C8133C70018D317 /* Build configuration list for PBXNativeTarget "BCWeiXinTests" */ = {
 			isa = XCConfigurationList;
@@ -664,6 +663,7 @@
 				D3DAA9E91C8133C70018D317 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D3DAA9EA1C8133C70018D317 /* Build configuration list for PBXNativeTarget "BCWeiXinUITests" */ = {
 			isa = XCConfigurationList;
@@ -672,6 +672,7 @@
 				D3DAA9EC1C8133C70018D317 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
