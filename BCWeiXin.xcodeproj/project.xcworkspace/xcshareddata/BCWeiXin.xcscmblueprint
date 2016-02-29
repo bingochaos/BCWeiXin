@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DAE6B26BD180ABD8BE762511B35B27D6BE79E625",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CB3F0F303DF6ACB52A97D2C7D87EFA80F438322F" : 0,
+    "DAE6B26BD180ABD8BE762511B35B27D6BE79E625" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A6288A73-7CCE-438D-B4E9-52125B9A2CF2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CB3F0F303DF6ACB52A97D2C7D87EFA80F438322F" : "BCWeiXin\/BCWeiXin\/",
+    "DAE6B26BD180ABD8BE762511B35B27D6BE79E625" : "BCWeiXin\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BCWeiXin",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BCWeiXin.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bingochaos\/BCWeiXin.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CB3F0F303DF6ACB52A97D2C7D87EFA80F438322F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bingochaos\/BCWeiXin.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DAE6B26BD180ABD8BE762511B35B27D6BE79E625"
+    }
+  ]
+}
